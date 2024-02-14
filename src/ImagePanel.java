@@ -40,7 +40,6 @@ public class ImagePanel extends JPanel{
                     g.drawImage(image,0,0,(int)(scaleValue * image.getWidth()),
                             (int)(scaleValue * image.getHeight()),null);
                 }
-
             }
             else {
                 g.drawImage(image,0,0,getWidth(),getHeight(),null);

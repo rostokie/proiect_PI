@@ -4,7 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 
-
 public class ImageProcessingGUI extends JFrame {
     private BufferedImage img1;
     private BufferedImage img2;
